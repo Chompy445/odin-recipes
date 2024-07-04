@@ -1,0 +1,53 @@
+/* Type selector: lowest selector // CSS simple cheat sheet \\
+h1 {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: 700;
+}
+*/
+/* class selector: Middle ground of the three selectors 
+.Oddnum {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+/* ID selector: Takes priority over other selectors
+#NumID01 {
+    color: blue;
+    font-size: 36px;
+}
+*/
+
+/* Grouping selectors
+.btnclass01,
+.btnclass02 {
+    font-size: 28px;
+    font-family: helvetica, Times New Roman, sans-serif;
+}
+*/
+/* Chaining selector
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
+/* Decandent combinator 
+
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+*/
+
+.heading {
+    text-align: center;
+    font-size: 50px;    
+    color: rgb(228, 184, 38)
+}
+
+.p-text {
+    font-family: serif;
+}
+
